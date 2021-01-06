@@ -1,2 +1,2 @@
 # hello-world
-This is commemorate my entry in the world of programming.
+This is commemorate my entry into the world of programming.
